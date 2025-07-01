@@ -1,4 +1,4 @@
-# whitepaper
+# Whitepaper
 Pegora Whitepaper — Version 1.0
 
 1. Executive Summary
